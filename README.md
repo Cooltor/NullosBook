@@ -1,11 +1,15 @@
 
-# PROJET DE GUESTBOOK SYMFONY
+# GUESTBOOK PROJECT
 
-Projet réalisé en formation 
+The official GuestBook project of Symfony.com 
+
+src : <a href=https://symfony.com/doc/6.0/> Book of Symfony </a>
 
 
-## Etat des lieux :
+## State of play :
 
-Après une remise à zéro, Je cherche les variables d'environnement pour modifier le path de psql
+Last commit : Step 9.
+
+
 
 
